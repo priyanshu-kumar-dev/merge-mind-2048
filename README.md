@@ -78,4 +78,4 @@ merge-mind-2048/
 
 If you enjoy the project, consider giving this repository a ⭐.
 
-**Think. Merge. Win. 🧠**
+**Think. Merge. Win. 🧠***
